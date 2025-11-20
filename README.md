@@ -19,3 +19,7 @@ This is a simple Bank Application built using Java and JDBC.
 1. Import into Eclipse  
 2. Configure MySQL connection  
 3. Run the BankApp.java  
+
+## 🎥 Demo Video
+Watch the project demo here:  
+👉 https://youtu.be/UMQWPdxX61k
